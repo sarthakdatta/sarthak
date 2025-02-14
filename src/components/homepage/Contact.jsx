@@ -133,7 +133,7 @@ export default function Contact() {
                 <span className="absolute bottom-0 left-0 h-[0.12em] w-0 rounded-full bg-secondary-600 duration-300 ease-in-out group-hover:w-full"></span>
               </a>
               <a
-                href="https://drive.google.com/file/d/1ej8iI6Q0j4JHG4oBUCrMAhhzcwoE3Hnb/view?usp=sharing"
+                href="https://docs.google.com/document/d/1NaTEtaOvbhXQLthM2eiPN-MkevSHjJ9hvq-vIcmxohk/edit?tab=t.0"
                 className="group relative w-fit cursor-pointer"
                 target="_blank"
                 rel="noreferrer"

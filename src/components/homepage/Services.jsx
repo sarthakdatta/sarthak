@@ -6,6 +6,7 @@ export default function Services() {
     "Web Development",
     "App Development",
     "API Development",
+    "Large Language Models",
   ];
 
   const toolBoxItems = [
